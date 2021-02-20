@@ -4,6 +4,13 @@ body{
 
 
 }
+a{
+    color: white;
+}
+button{
+    border: 2px soid blueviolet;
+    border-radius: 8px;
+}
 
 
 p{
